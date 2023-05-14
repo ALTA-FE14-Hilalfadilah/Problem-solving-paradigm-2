@@ -14,7 +14,7 @@ function maxTotalCost(stones: number[]): number {
 }
 
 const stones1 = [10, 30, 40, 20];
-console.log(maxTotalCost(stones1)); // output: 30
+console.log(maxTotalCost(stones1));
 
 const stones2 = [30, 10, 60, 10, 60, 50];
-console.log(maxTotalCost(stones2)); // output: 40
+console.log(maxTotalCost(stones2));
